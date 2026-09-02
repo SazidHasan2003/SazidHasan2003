@@ -17,7 +17,7 @@
 
 - 📚 I’m continuously improving my problem-solving and programming skills**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🔗 Connect with me:</h2>
 
 
 <p align="left">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h2 align="left">Languages & Technologies:</h2>
+<h2 align="left">🛠️ Languages & Technologies:</h2>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -54,7 +54,7 @@
   </a>
 </p>
 
-<h2 align="left">Currently Learning:</h2>
+<h2 align="left">📚 Currently Learning:</h2>
 
 <p align="left">
   <a href="https://react.dev/">
@@ -62,7 +62,7 @@
   </a>
 </p>
 
+<h2 align="left">📊 GitHub Stats:</h2>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazidhasan2003&" alt="sazidhasan2003" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sazidhasan2003&" alt="sazidhasan2003" /></p>
 
